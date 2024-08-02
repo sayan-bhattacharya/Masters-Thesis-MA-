@@ -1,15 +1,3 @@
-Certainly! Here’s a text you can add to the description section and the README file for your Master’s thesis repository on GitHub:
-
----
-
-### Description Section
-
-**Design and Evaluation of an Autonomous Comparison Method for Feature Ranking for Machine Prognostics**
-
-This repository contains the complete Master’s thesis of Sayan Bhattacharya, submitted to the Technische Universität Ilmenau, Department of Electrical Engineering and Information Technology. The thesis presents a comprehensive study on the design and evaluation of an autonomous comparison method for feature ranking in machine prognostics, a crucial aspect of predictive maintenance (PdM) applications. The work includes detailed methodologies, experimental results, and discussions on various feature ranking algorithms and their performance in real-world scenarios.
-
----
-
 ### README File
 
 # Master’s Thesis: Design and Evaluation of an Autonomous Comparison Method for Feature Ranking for Machine Prognostics
